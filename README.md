@@ -1,4 +1,4 @@
-# GIS-with-ENVI\
+# GIS-with-ENVI
 
 ## Abstract
 This is python code for using classification and making region of interest automatically from GIS and ENVI software.
